@@ -1,7 +1,6 @@
 public class TowerOfHanoi{
 
      public static void main(String []args){
-        System.out.println("Hello World");
         TowerOfHanoi obj = new TowerOfHanoi();
         obj.towerOfHanoi(3, 'A', 'B','C');
      }
